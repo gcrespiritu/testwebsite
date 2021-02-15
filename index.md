@@ -15,7 +15,7 @@
             <a href="register">Register</a>
         </p>
         <p>
-            <a href="login.php">Login</a>
+            <a href="login">Login</a>
         </p>
     </div>
 </body>
