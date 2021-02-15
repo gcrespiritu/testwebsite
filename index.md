@@ -12,7 +12,7 @@
     <div align="center">
         <h1>Welcome in Auto Database System</h1>
         <p>
-            <a href="register.php">Register</a>
+            <a href="https://github.com/gcrespiritu/autos-database/blob/master/register.php">Register</a>
         </p>
         <p>
             <a href="login.php">Login</a>
