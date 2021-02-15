@@ -1,13 +1,23 @@
-## Welcome to Online Portfolio 
+<!DOCTYPE html>
+<html lang="en">
 
-You can use the [editor on GitHub](https://github.com/gcrespiritu/testwebsite/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Abdelrahman Saeed</title>
+</head>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<body>
+    <div align="center">
+        <h1>Welcome in Auto Database System</h1>
+        <p>
+            <a href="register.php">Register</a>
+        </p>
+        <p>
+            <a href="login.php">Login</a>
+        </p>
+    </div>
+</body>
 
-### Markdown
-
-
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</html>
